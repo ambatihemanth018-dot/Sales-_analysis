@@ -17,7 +17,7 @@ Analyze sales data using SQL to identify trends and insights.
 - Which sellers contribute most to revenue?
 - Who are the top 5 customers by revenue?
 - Which products have high discounts but low revenue?
-- How does order status (completed vs pending) impact sales?
+
 
 ## 📂 Dataset
 
